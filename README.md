@@ -24,8 +24,9 @@ Developed an interactive Crisis Recovery Dashboard for QuickBite Express, a Beng
 ---
 
 ## 🧩 Tech Stack
- ✅ Power BI
- 
- ✅ DAX for dynamic measures
- 
- ✅ Data Modeling & Relationship Management
+
+📊 **Power BI** – For interactive dashboards and visualizations
+
+🔢 **DAX (Data Analysis Expressions)** – For calculated measures and KPIs
+
+🎨 **Figma** – For dashboard design mockups and layout planning
