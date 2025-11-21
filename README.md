@@ -5,25 +5,25 @@ Developed an interactive Crisis Recovery Dashboard for QuickBite Express, a Beng
 
 ---
 
-##💡 Key Highlights :
+## 💡 Key Highlights :
 
--🔸 149K Total Orders
+- 🔸 149K Total Orders
 
--🔸 Avg Delivery Time: 44 mins
+- 🔸 Avg Delivery Time: 44 mins
 
--🔸 SLA Compliance Rate: 36% (Pre-crisis 43.6% → Crisis 12.2%)
+- 🔸 SLA Compliance Rate: 36% (Pre-crisis 43.6% → Crisis 12.2%)
 
--🔸 Breakdown by vehicle type, employment type, and city
+- 🔸 Breakdown by vehicle type, employment type, and city
 
--🔸 Top 5 Delivery Partners ranked by orders, ratings
+- 🔸 Top 5 Delivery Partners ranked by orders, ratings
 
--🔸 Trend analysis of Crisis SLA% by Month
+- 🔸 Trend analysis of Crisis SLA% by Month
 
--🔸 City-level insights on delivery fees and partner efficiency
+- 🔸 City-level insights on delivery fees and partner efficiency
 ---
 
-##🧩 Tech Stack
--✅ Power BI
--✅ DAX for dynamic measures
--✅ Data Modeling & Relationship Management
--✅ KPI Cards, Donut Charts, and Trend Visuals
+## 🧩 Tech Stack
+- ✅ Power BI
+- ✅ DAX for dynamic measures
+- ✅ Data Modeling & Relationship Management
+- ✅ KPI Cards, Donut Charts, and Trend Visuals
