@@ -7,9 +7,9 @@ Developed an interactive Crisis Recovery Dashboard for QuickBite Express, a Beng
 
 ## 💡 Key Highlights :
 
-- 🔸 149K Total Orders
+🔸 149K Total Orders
 
-- 🔸 Avg Delivery Time: 44 mins
+🔸 Avg Delivery Time: 44 mins
 
 - 🔸 SLA Compliance Rate: 36% (Pre-crisis 43.6% → Crisis 12.2%)
 
