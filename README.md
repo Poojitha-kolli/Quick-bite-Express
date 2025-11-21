@@ -29,5 +29,3 @@ Developed an interactive Crisis Recovery Dashboard for QuickBite Express, a Beng
  ✅ DAX for dynamic measures
  
  ✅ Data Modeling & Relationship Management
- 
- ✅ KPI Cards, Donut Charts, and Trend Visuals
